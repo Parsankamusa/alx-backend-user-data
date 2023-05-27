@@ -1,4 +1,4 @@
-# :Kenya: 0x05. Personal data
+# 0x05. Personal data
 
 - Examples of Personally Identifiable Information (PII)
 - How to implement a log filter that will obfuscate PII fields
