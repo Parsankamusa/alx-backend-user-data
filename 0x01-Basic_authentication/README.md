@@ -1,5 +1,5 @@
 
-#  0x06. Basic authentication
+#  0x01. Basic authentication
 
 - What authentication means
 - What Base64 is
