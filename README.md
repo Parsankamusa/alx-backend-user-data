@@ -5,7 +5,7 @@ open_file_folder: Specializations - Web Stack programming ― Back-end
 :bookmark:
 
 ## Background Context
-In this project, you will implement a Session Authentication. You are not allowed to install any other module.
+In this project, you will implement a Session Authentication.
 
 ## Resources
 ### Read or watch:
